@@ -1,1 +1,2 @@
 # KNN-DecisionTree
+KNN and Decision Tree classifiers were investigated on the ”Diabetic Retinopathy Debrecen” and ”Hepatitis” data set from the UCL Machine Learning Repository. For the decision tree, the effect of pruning is investigated. In terms of KNN, two distance functions, Euclidean distance and Manhattan distance, with different numbers of nearest neighbours, are tested against the validation data set to determine the optimal number of neighbours that maximize the accuracy. 
